@@ -1,0 +1,50 @@
+[Mon Nov 18 11:55:19 2013] [error] [client 127.0.0.1] script '/Users/stuart/Sites/alexv/httpdocs/PhpStorm-fc995c97-0429-47ce-b6d3-867ac4b24edf.php' not found or unable to stat
+[Mon Nov 18 12:06:25 2013] [error] [client 127.0.0.1] File does not exist: /Users/stuart/Sites/alexv/httpdocs/assets, referer: http://alexv.dev/css/fonts.css
+[Mon Nov 18 12:06:27 2013] [error] [client 127.0.0.1] File does not exist: /Users/stuart/Sites/alexv/httpdocs/assets, referer: http://alexv.dev/css/fonts.css
+[Mon Nov 18 12:06:27 2013] [error] [client 127.0.0.1] File does not exist: /Users/stuart/Sites/alexv/httpdocs/assets, referer: http://alexv.dev/css/fonts.css
+[Mon Nov 18 12:06:27 2013] [error] [client 127.0.0.1] File does not exist: /Users/stuart/Sites/alexv/httpdocs/assets, referer: http://alexv.dev/css/fonts.css
+[Mon Nov 18 12:06:27 2013] [error] [client 127.0.0.1] File does not exist: /Users/stuart/Sites/alexv/httpdocs/assets, referer: http://alexv.dev/css/fonts.css
+[Mon Nov 18 12:06:28 2013] [error] [client 127.0.0.1] File does not exist: /Users/stuart/Sites/alexv/httpdocs/assets, referer: http://alexv.dev/css/fonts.css
+[Mon Nov 18 12:15:36 2013] [error] [client 192.168.1.76] File does not exist: /Users/stuart/Sites/alexv/httpdocs/explore, referer: http://192.168.1.65/
+[Mon Nov 18 13:00:20 2013] [error] [client 127.0.0.1] File does not exist: /Users/stuart/Sites/alexv/httpdocs/explore, referer: http://alexv.dev/
+[Mon Nov 18 13:06:36 2013] [error] [client 127.0.0.1] File does not exist: /Users/stuart/Sites/alexv/httpdocs/explore, referer: http://alexv.dev/
+[Mon Nov 18 15:50:01 2013] [error] [client 127.0.0.1] PHP Warning:  require(/Users/stuart/Sites/alexv/httpdocs/vendor/autoload.php): failed to open stream: No such file or directory in /Users/stuart/Sites/alexv/httpdocs/index.php on line 2
+[Mon Nov 18 15:50:01 2013] [error] [client 127.0.0.1] PHP Stack trace:
+[Mon Nov 18 15:50:01 2013] [error] [client 127.0.0.1] PHP   1. {main}() /Users/stuart/Sites/alexv/httpdocs/index.php:0
+[Mon Nov 18 15:50:01 2013] [error] [client 127.0.0.1] PHP Fatal error:  require(): Failed opening required '/Users/stuart/Sites/alexv/httpdocs/vendor/autoload.php' (include_path='.:/usr/local/php5/lib/php') in /Users/stuart/Sites/alexv/httpdocs/index.php on line 2
+[Mon Nov 18 15:50:01 2013] [error] [client 127.0.0.1] PHP Stack trace:
+[Mon Nov 18 15:50:01 2013] [error] [client 127.0.0.1] PHP   1. {main}() /Users/stuart/Sites/alexv/httpdocs/index.php:0
+[Mon Nov 18 15:59:25 2013] [error] [client 127.0.0.1] PHP Fatal error:  Using $this when not in object context in /Users/stuart/Sites/alexv/httpdocs/index.php on line 20
+[Mon Nov 18 15:59:25 2013] [error] [client 127.0.0.1] PHP Stack trace:
+[Mon Nov 18 15:59:25 2013] [error] [client 127.0.0.1] PHP   1. {main}() /Users/stuart/Sites/alexv/httpdocs/index.php:0
+[Mon Nov 18 15:59:25 2013] [error] [client 127.0.0.1] PHP   2. Slim\\Slim->run() /Users/stuart/Sites/alexv/httpdocs/index.php:59
+[Mon Nov 18 15:59:25 2013] [error] [client 127.0.0.1] PHP   3. Slim\\Middleware\\PrettyExceptions->call() /Users/stuart/Sites/alexv/httpdocs/Slim/Slim.php:1254
+[Mon Nov 18 15:59:25 2013] [error] [client 127.0.0.1] PHP   4. Slim\\Middleware\\MethodOverride->call() /Users/stuart/Sites/alexv/httpdocs/Slim/Middleware/PrettyExceptions.php:67
+[Mon Nov 18 15:59:25 2013] [error] [client 127.0.0.1] PHP   5. Slim\\Middleware\\Flash->call() /Users/stuart/Sites/alexv/httpdocs/Slim/Middleware/MethodOverride.php:92
+[Mon Nov 18 15:59:25 2013] [error] [client 127.0.0.1] PHP   6. Slim\\Slim->call() /Users/stuart/Sites/alexv/httpdocs/Slim/Middleware/Flash.php:85
+[Mon Nov 18 15:59:25 2013] [error] [client 127.0.0.1] PHP   7. Slim\\Route->dispatch() /Users/stuart/Sites/alexv/httpdocs/Slim/Slim.php:1307
+[Mon Nov 18 15:59:25 2013] [error] [client 127.0.0.1] PHP   8. call_user_func_array() /Users/stuart/Sites/alexv/httpdocs/Slim/Route.php:436
+[Mon Nov 18 15:59:25 2013] [error] [client 127.0.0.1] PHP   9. {closure:/Users/stuart/Sites/alexv/httpdocs/index.php:18-21}() /Users/stuart/Sites/alexv/httpdocs/Slim/Route.php:436
+[Mon Nov 18 16:00:07 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '$app' (T_VARIABLE), expecting '(' in /Users/stuart/Sites/alexv/httpdocs/index.php on line 18
+[Mon Nov 18 17:30:41 2013] [error] [client 127.0.0.1] File does not exist: /Users/stuart/Sites/alexv/httpdocs/js/jquery-1.10.1.min.js, referer: http://alexv.dev/explore
+[Mon Nov 18 17:30:41 2013] [error] [client 127.0.0.1] File does not exist: /Users/stuart/Sites/alexv/httpdocs/js/idangerous.swiper-2.1.min.js, referer: http://alexv.dev/explore
+[Mon Nov 18 17:30:41 2013] [error] [client 127.0.0.1] File does not exist: /Users/stuart/Sites/alexv/httpdocs/img/slider1-2.png, referer: http://alexv.dev/explore
+[Mon Nov 18 17:30:41 2013] [error] [client 127.0.0.1] File does not exist: /Users/stuart/Sites/alexv/httpdocs/img/slider1-1.png, referer: http://alexv.dev/explore
+[Mon Nov 18 17:30:41 2013] [error] [client 127.0.0.1] File does not exist: /Users/stuart/Sites/alexv/httpdocs/js/jquery-1.10.1.min.js, referer: http://alexv.dev/explore
+[Mon Nov 18 17:30:41 2013] [error] [client 127.0.0.1] File does not exist: /Users/stuart/Sites/alexv/httpdocs/img/slider1-2.png, referer: http://alexv.dev/explore
+[Mon Nov 18 17:30:41 2013] [error] [client 127.0.0.1] File does not exist: /Users/stuart/Sites/alexv/httpdocs/img/slider1-1.png, referer: http://alexv.dev/explore
+[Mon Nov 18 17:30:41 2013] [error] [client 127.0.0.1] File does not exist: /Users/stuart/Sites/alexv/httpdocs/js/idangerous.swiper-2.1.min.js, referer: http://alexv.dev/explore
+[Mon Nov 18 17:30:41 2013] [error] [client 127.0.0.1] File does not exist: /Users/stuart/Sites/alexv/httpdocs/img/slider1-1.png, referer: http://alexv.dev/explore
+[Mon Nov 18 17:30:41 2013] [error] [client 127.0.0.1] File does not exist: /Users/stuart/Sites/alexv/httpdocs/img/slider1-2.png, referer: http://alexv.dev/explore
+[Mon Nov 18 17:30:54 2013] [error] [client 127.0.0.1] File does not exist: /Users/stuart/Sites/alexv/httpdocs/img/slider1-1.png, referer: http://alexv.dev/explore
+[Mon Nov 18 17:30:54 2013] [error] [client 127.0.0.1] File does not exist: /Users/stuart/Sites/alexv/httpdocs/img/slider1-2.png, referer: http://alexv.dev/explore
+[Mon Nov 18 17:30:54 2013] [error] [client 127.0.0.1] File does not exist: /Users/stuart/Sites/alexv/httpdocs/img/slider1-1.png, referer: http://alexv.dev/explore
+[Mon Nov 18 17:30:54 2013] [error] [client 127.0.0.1] File does not exist: /Users/stuart/Sites/alexv/httpdocs/img/slider1-2.png, referer: http://alexv.dev/explore
+[Mon Nov 18 17:31:07 2013] [error] [client 127.0.0.1] File does not exist: /Users/stuart/Sites/alexv/httpdocs/img/bg/01.png, referer: http://alexv.dev/explore
+[Mon Nov 18 17:31:07 2013] [error] [client 127.0.0.1] File does not exist: /Users/stuart/Sites/alexv/httpdocs/img/bg/02.png, referer: http://alexv.dev/explore
+[Mon Nov 18 17:31:08 2013] [error] [client 127.0.0.1] File does not exist: /Users/stuart/Sites/alexv/httpdocs/img/bg/02.png, referer: http://alexv.dev/explore
+[Mon Nov 18 17:31:08 2013] [error] [client 127.0.0.1] File does not exist: /Users/stuart/Sites/alexv/httpdocs/img/bg/01.png, referer: http://alexv.dev/explore
+[Mon Nov 18 17:31:17 2013] [error] [client 127.0.0.1] File does not exist: /Users/stuart/Sites/alexv/httpdocs/img/bg/01.png, referer: http://alexv.dev/explore
+[Mon Nov 18 17:31:17 2013] [error] [client 127.0.0.1] File does not exist: /Users/stuart/Sites/alexv/httpdocs/img/bg/02.png, referer: http://alexv.dev/explore
+[Mon Nov 18 17:31:18 2013] [error] [client 127.0.0.1] File does not exist: /Users/stuart/Sites/alexv/httpdocs/img/bg/02.png, referer: http://alexv.dev/explore
+[Mon Nov 18 17:31:18 2013] [error] [client 127.0.0.1] File does not exist: /Users/stuart/Sites/alexv/httpdocs/img/bg/01.png, referer: http://alexv.dev/explore

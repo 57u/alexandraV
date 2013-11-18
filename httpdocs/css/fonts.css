@@ -1,0 +1,162 @@
+/**
+
+	Fonts for Alexandra V
+
+	Helvetica Neue OpenType Font
+
+	Stuart Sillitoe 2013
+	http://stuartsillitoe.co.uk
+
+*/
+
+
+
+/* Black - Blk */
+@font-face
+{
+	font-family: 'HelveticaNeue_Blk';
+	src: url('/font/HelveticaNeue/HelveticaNeueLTStd-Blk.otf') format("opentype");
+}
+/* Black Expanded - BlkEx */
+@font-face
+{
+	font-family: 'HelveticaNeue_BlkEx';
+	src: url('/font/HelveticaNeue/HelveticaNeueLTStd-BlkEx.otf') format("opentype");
+}
+
+
+
+
+
+
+/* Heavy - Hv */
+@font-face
+{
+	font-family: 'HelveticaNeue_Hv';
+	src: url('/font/HelveticaNeue/HelveticaNeueLTStd-Hv.otf') format("opentype");
+}
+/* Heavy Expanded - HvEx */
+@font-face
+{
+	font-family: 'HelveticaNeue_HvEx';
+	src: url('/font/HelveticaNeue/HelveticaNeueLTStd-HvEx.otf') format("opentype");
+}
+
+
+
+
+
+/* Bold - Bd */
+@font-face
+{
+	font-family: 'HelveticaNeue_Bd';
+	src: url('/font/HelveticaNeue/HelveticaNeueLTStd-Bd.otf') format("opentype");
+}
+/* Bold Expanded - BdEx */
+@font-face
+{
+	font-family: 'HelveticaNeue_BdEx';
+	src: url('/font/HelveticaNeue/HelveticaNeueLTStd-BdEx.otf') format("opentype");
+}
+
+
+
+@font-face {
+	font-family: 'HelveticaNeue_Roman';
+	src: url('/font/HelveticaNeue/HelveticaNeueLTStd-Roman.otf') format('opentype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* Expanded - Ex */
+@font-face
+{
+	font-family: 'HelveticaNeue_Ex';
+	src: url('/font/HelveticaNeue/HelveticaNeueLTStd-Ex.otf') format("opentype");
+}
+
+
+
+
+
+
+/* Medium - Md */
+@font-face
+{
+	font-family: 'HelveticaNeue_Md';
+	src: url('/font/HelveticaNeue/HelveticaNeueLTStd-Md.otf') format("opentype");
+}
+/* Medium Expanded - MdEx */
+@font-face
+{
+	font-family: 'HelveticaNeue_MdEx';
+	src: url('/font/HelveticaNeue/HelveticaNeueLTStd-MdEx.otf') format("opentype");
+}
+
+
+
+
+
+
+/* Thin - Th */
+@font-face
+{
+	font-family: 'HelveticaNeue_Th';
+	src: url('/font/HelveticaNeue/HelveticaNeueLTStd-Th.otf') format("opentype");
+}
+/* Thin Expanded - ThEx */
+@font-face
+{
+	font-family: 'HelveticaNeue_ThEx';
+	src: url('/font/HelveticaNeue/HelveticaNeueLTStd-ThEx.otf') format("opentype");
+}
+
+
+
+
+
+/* Light - Lt */
+@font-face
+{
+	font-family: 'HelveticaNeue_Lt';
+	src: url('/font/HelveticaNeue/HelveticaNeueLTStd-Lt.otf') format("opentype");
+}
+/* Light Expanded - LtEx */
+@font-face
+{
+	font-family: 'HelveticaNeue_LtEx';
+	src: url('/font/HelveticaNeue/HelveticaNeueLTStd-LtEx.otf') format("opentype");
+}
+
+
+
+
+
+/* Ultra Light - UltLt */
+@font-face
+{
+	font-family: 'HelveticaNeue_UltLt';
+	src: url('/font/HelveticaNeue/HelveticaNeueLTStd-UltLt.otf') format("opentype");
+}
+/* Ultra Light Expanded - UltLtEx */
+@font-face
+{
+	font-family: 'HelveticaNeue_LtEx';
+	src: url('/font/HelveticaNeue/HelveticaNeueLTStd-UltLtEx.otf') format("opentype");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
